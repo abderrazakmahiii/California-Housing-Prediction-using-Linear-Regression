@@ -6,8 +6,10 @@ Predict California housing prices using Linear Regression. This project leverage
 Key features:
 - `longitude` / `latitude`: Geographic coordinates
 - `housingMedianAge`: Median house age in a block
-- `totalRooms` / `totalBedrooms`: Count of rooms and bedrooms
-- `population` / `households`: Residents and households in a block
+- `totalRooms`: Total number of rooms within a block
+- `totalBedrooms`: Total number of bedrooms within a block
+- `population`: Total number of people residing within a block
+- `households`: Total number of households, a group of people residing within a home unit, for a block
 - `medianIncome`: Median household income (in $10k)
 - `medianHouseValue`: Target variable (USD)
 - `oceanProximity`: House location relative to the ocean  
