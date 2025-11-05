@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ## Usage
 # Run the main script to train and test the Linear Regression model
 python price_prediction.ipynb
+```
 
 The script will:
 - Load and preprocess the dataset
@@ -43,4 +44,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 ## License
 This project is open-source and available under the MIT License.
-```
+
